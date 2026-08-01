@@ -12,10 +12,10 @@
 
 Software Engineer with a passion for robust backend architectures, relational databases, and integrating AI into web applications. Fueled by my daily dose of milk coffee and quality time with my cat ☕️ฅ^•ﻌ•^ฅ
 
-🔭 &nbsp;I'm currently working on **reviewing Data Structures and Algorithms and refining my full-stack projects.**  
-🌱 &nbsp;I'm currently learning **advanced backend design patterns and optimizing complex SQL queries.**  
-😄 &nbsp;Pronouns: **she/her**  
-⚡ &nbsp;Fun fact: **I’m the designated "dependable one" in every group, which makes my to-do list rather chaotic with people always relying on me... but I always manage to get things done!**
+○ &nbsp;I'm currently working on **reviewing Data Structures and Algorithms and refining my full-stack projects.**  
+○ &nbsp;I'm currently learning **advanced backend design patterns and optimizing complex SQL queries.**  
+○ &nbsp;Pronouns: **she/her**  
+○ &nbsp;Fun fact: **I’m the designated "dependable one" in every group, which makes my to-do list rather chaotic with people always relying on me... but I always manage to get things done!**
 
 ### 🛠️ Tech Stack
 
