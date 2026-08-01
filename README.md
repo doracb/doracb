@@ -8,14 +8,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=565&height=44&lines=I%20like%20tinkering%20with%20databases%20%3D))" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### 🔎 About Me
 
-Software Engineer with a passion for robust backend architectures, relational databases, and integrating AI into web applications. Fueled by my daily dose of milk coffee and quality time with my cat ☕️ฅ^•ﻌ•^ฅ
+Software Engineer with a passion for robust backend architectures, relational databases, and integrating AI into web applications. Fueled by my daily dose of milk coffee and quality time with my cat ฅ^•ﻌ•^ฅ
 
-○ &nbsp;I'm currently working on **reviewing Data Structures and Algorithms and refining my full-stack projects.**  
-○ &nbsp;I'm currently learning **advanced backend design patterns and optimizing complex SQL queries.**  
-○ &nbsp;Pronouns: **she/her**  
-○ &nbsp;Fun fact: **I’m the designated "dependable one" in every group, which makes my to-do list rather chaotic with people always relying on me... but I always manage to get things done!**
+&nbsp;&nbsp;∧,,,∧\
+(  ̳• · • ̳)\
+/    づ☕️ 
+
+○&nbsp;I'm currently working on **reviewing Data Structures and Algorithms and refining my full-stack projects.**  
+○&nbsp;I'm currently learning **advanced backend design patterns and optimizing complex SQL queries.**  
+○&nbsp;Pronouns: **she/her**  
+○&nbsp;Fun fact: **I’m the designated "dependable one" in every group, which makes my to-do list rather chaotic with people always relying on me... but I always manage to get things done!**
 
 ### 🛠️ Tech Stack
 
