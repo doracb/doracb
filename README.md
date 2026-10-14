@@ -10,14 +10,14 @@
 
 ### 🔎 About Me
 
-Software Engineer with a passion for robust backend architectures, relational databases, and integrating AI into web applications. Fueled by my daily dose of milk coffee and quality time with my cat ฅ^•ﻌ•^ฅ
+Data-oriented Software Engineer with a passion for relational databases, data analysis, and workflow automation. Fueled by my daily dose of milk coffee and quality time with my cat ฅ^•ﻌ•^ฅ
 
 &nbsp;&nbsp;∧,,,∧\
 (  ̳• · • ̳)\
 /    づ☕️ 
 
 ○&nbsp;Pronouns: **she/her**  
-○&nbsp;I'm currently working on **reviewing Data Structures and Algorithms and refining my full-stack projects.**    
+○&nbsp;I'm currently working on **a Data Jobs Market Analysis project using Python and refining my data pipeline skills.**    
 ○&nbsp;Fun fact: **I’m the designated "dependable one" in every group, which makes my to-do list rather chaotic with people always relying on me... but I always manage to get things done!**
 
 ### 🛠️ Tech Stack
